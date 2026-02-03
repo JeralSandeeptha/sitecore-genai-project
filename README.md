@@ -11,7 +11,7 @@ These are the main project repos you can find.
 - [Infrasturcture Project](https://github.com/JeralSandeeptha/sitecore-genai-infra)
 - [Kubernates Deployment Project](https://github.com/JeralSandeeptha/sitecore-genai-k8s)
 - [Dev Environment]()
-- [Project Architecture]()
+- [Project Architecture](https://github.com/JeralSandeeptha/sitecore-genai-architecture)
 
 <br />
 
@@ -65,14 +65,14 @@ git clone https://github.com/JeralSandeeptha/sitecore-genai-infra
 git clone https://github.com/JeralSandeeptha/sitecore-genai-k8s
 ```
 
-- Clone den environment project
+- Clone dev environment project
 ```bash
 git clone 
 ```
 
 - Clone project architecture
 ```bash
-git clone 
+git clone https://github.com/JeralSandeeptha/sitecore-genai-architecture
 ```
 
 - You can run projects through one by one or you can run the whole project using docker compose which is the file lives under develop folder in `sitecore-genai-development` repo.
