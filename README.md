@@ -32,7 +32,7 @@ How to setup the project repos?
 
 - Clone the main repo
 ```bash
-git clone 
+git clone https://github.com/JeralSandeeptha/sitecore-genai-project
 ```
 
 - Clone frontend project
@@ -48,11 +48,6 @@ git clone https://github.com/JeralSandeeptha/sitecore-genai-gateway
 - Clone user service project
 ```bash
 git clone https://github.com/JeralSandeeptha/sitecore-genai-users
-```
-
-- Clone url generation service project
-```bash
-git clone 
 ```
 
 - Clone infrastructure project
