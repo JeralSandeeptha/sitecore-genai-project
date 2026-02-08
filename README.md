@@ -10,7 +10,7 @@ These are the main project repos you can find.
 - [Knowledge Service](https://github.com/JeralSandeeptha/sitecore-genai-knowledge)
 - [Infrasturcture Project](https://github.com/JeralSandeeptha/sitecore-genai-infra)
 - [Kubernates Deployment Project](https://github.com/JeralSandeeptha/sitecore-genai-k8s)
-- [Dev Environment]()
+- [Dev Environment](https://github.com/JeralSandeeptha/sitecore-genai-development)
 - [Project Architecture](https://github.com/JeralSandeeptha/sitecore-genai-architecture)
 
 <br />
