@@ -67,7 +67,7 @@ git clone https://github.com/JeralSandeeptha/sitecore-genai-k8s
 
 - Clone dev environment project
 ```bash
-git clone 
+git clone https://github.com/JeralSandeeptha/sitecore-genai-development
 ```
 
 - Clone project architecture
