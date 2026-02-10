@@ -11,6 +11,7 @@ These are the main project repos you can find.
 - [AI Service](https://github.com/JeralSandeeptha/sitecore-genai-ai)
 - [Infrasturcture Project](https://github.com/JeralSandeeptha/sitecore-genai-infra)
 - [Kubernates Deployment Project](https://github.com/JeralSandeeptha/sitecore-genai-k8s)
+- [Sitecore Data](https://github.com/JeralSandeeptha/sitecore-genai-data)
 - [Dev Environment](https://github.com/JeralSandeeptha/sitecore-genai-development)
 - [Project Architecture](https://github.com/JeralSandeeptha/sitecore-genai-architecture)
 
@@ -29,11 +30,16 @@ How to setup the project repos?
 
 - Go inside of that folder
 
-- Open a new terminal or CMD
+- Open a new terminal or CMD inside of that folder on `Windows`. If you are using `other` OS types you can clone these all projects under the folder you created
 
 - Clone the main repo
 ```bash
 git clone https://github.com/JeralSandeeptha/sitecore-genai-project
+```
+
+- Clone the sitecore data repo
+```bash
+git clone https://github.com/JeralSandeeptha/sitecore-genai-data
 ```
 
 - Clone frontend project
