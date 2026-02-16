@@ -7,6 +7,7 @@ These are the main project repos you can find.
 - [Frontend Project](https://github.com/JeralSandeeptha/sitecore-genai-frontend)
 - [Gateway Service](https://github.com/JeralSandeeptha/sitecore-genai-gateway)
 - [User Service](https://github.com/JeralSandeeptha/sitecore-genai-users)
+- [Code Generator Service](https://github.com/JeralSandeeptha/sitecore-genai-code-generate)
 - [Knowledge Service](https://github.com/JeralSandeeptha/sitecore-genai-knowledge)
 - [AI Service](https://github.com/JeralSandeeptha/sitecore-genai-ai)
 - [Infrasturcture Project](https://github.com/JeralSandeeptha/sitecore-genai-infra)
@@ -60,6 +61,11 @@ git clone https://github.com/JeralSandeeptha/sitecore-genai-users
 - Clone AI service project
 ```bash
 git clone https://github.com/JeralSandeeptha/sitecore-genai-ai
+```
+
+- Clone Code generator service project
+```bash
+git clone https://github.com/JeralSandeeptha/sitecore-genai-code-generate
 ```
 
 - Clone infrastructure project
