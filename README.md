@@ -4,17 +4,26 @@
 
 These are the main project repos you can find.
 
+<br />
+
+Find Project Diagrams, ADRs and SRS Docs
+- [Project Architecture](https://github.com/JeralSandeeptha/sitecore-genai-architecture)
+
+Services Projects
 - [Frontend Project](https://github.com/JeralSandeeptha/sitecore-genai-frontend)
 - [Gateway Service](https://github.com/JeralSandeeptha/sitecore-genai-gateway)
 - [User Service](https://github.com/JeralSandeeptha/sitecore-genai-users)
 - [Code Generator Service](https://github.com/JeralSandeeptha/sitecore-genai-code-generate)
 - [Knowledge Service](https://github.com/JeralSandeeptha/sitecore-genai-knowledge)
 - [AI Service](https://github.com/JeralSandeeptha/sitecore-genai-ai)
+- [Sitecore Data](https://github.com/JeralSandeeptha/sitecore-genai-data)
+
+Devops Projects
 - [Infrasturcture Project](https://github.com/JeralSandeeptha/sitecore-genai-infra)
 - [Kubernates Deployment Project](https://github.com/JeralSandeeptha/sitecore-genai-k8s)
-- [Sitecore Data](https://github.com/JeralSandeeptha/sitecore-genai-data)
+
+Local Project Setup / Run
 - [Dev Environment](https://github.com/JeralSandeeptha/sitecore-genai-development)
-- [Project Architecture](https://github.com/JeralSandeeptha/sitecore-genai-architecture)
 
 <br />
 
